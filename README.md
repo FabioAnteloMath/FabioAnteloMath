@@ -40,8 +40,8 @@
 
 ### 📫 How to reach me
 - GitHub: [@FabioAnteloMath](https://github.com/FabioAnteloMath)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/matheusfabio/
+- Email: matehusf.antelo@gmail.com
 
 ### 👨‍💻 All of my projects are available at
 **[github.com/FabioAnteloMath](https://github.com/FabioAnteloMath)**
@@ -72,14 +72,6 @@ I combine my passion for mathematics with AI engineering to build intelligent sy
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![FabioAnteloMath's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioAnteloMath&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAnteloMath&layout=compact&theme=radical)](https://github.com/FabioAnteloMath)
 
 ---
 

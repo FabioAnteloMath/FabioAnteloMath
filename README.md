@@ -7,6 +7,7 @@
 - **[GetaPets](https://github.com/FabioAnteloMath/GetaPets)** - A JavaScript-based pet adoption platform
 - **[discord-task-bot](https://github.com/FabioAnteloMath/discord-task-bot)** - AI-powered Discord bot for task management
 - **[Todo-List](https://github.com/FabioAnteloMath/Todo-List)** - Smart task management application
+- **[MultiAgent-RAG](https://github.com/FabioAnteloMath/multiagent-rag)** - MultiAgent - RAG
 
 ### 👯 I'm looking to collaborate on
 - AI/ML open source projects
